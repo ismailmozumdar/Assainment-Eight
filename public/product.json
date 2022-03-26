@@ -1,0 +1,62 @@
+[
+    {
+      "id": "r4f7a",
+      "name": "Home",
+      "price": 120,
+      "img": "https://img.freepik.com/free-psd/front-back-views-standing-softcover-book-mockup_336750-60.jpg?size=626&ext=jpg&uid=R29391182&ga=GA1.2.2023362612.1634832025"
+    },
+    {
+      "id": "4dfd4s",
+      "name": "B Bocal Story",
+      "price": 360,
+      "img": "https://img.freepik.com/free-psd/hard-cover-book-mockup_358694-21.jpg?size=626&ext=jpg&uid=R29391182&ga=GA1.2.2023362612.1634832025"
+    },
+    {
+      "id": "a74df4",
+      "name": "Natural House",
+      "price": 250,
+      "img": "https://img.freepik.com/free-psd/softcover-book-mockup-front-back_352777-1.jpg?size=626&ext=jpg&uid=R29391182&ga=GA1.2.2023362612.1634832025"
+    },
+    {
+      "id": "5s1a4d",
+      "name": "Read About Trees",
+      "price": 349,
+      "img": "https://img.freepik.com/free-psd/top-view-book-coffee-cup-arrangement_23-2149040132.jpg?size=626&ext=jpg&uid=R29391182&ga=GA1.2.2023362612.1634832025"
+    },
+    {
+      "id": "544b2f",
+      "name": "Read the book to know more",
+      "price": 699,
+      "img": "https://img.freepik.com/free-psd/softcover-book-covers-mockup_337857-306.jpg?size=626&ext=jpg&uid=R29391182&ga=GA1.2.2023362612.1634832025"
+    },
+    {
+      "id": "13b92d",
+      "name": "Fazil in the Forest",
+      "price": 436,
+      "img": "https://img.freepik.com/free-psd/flat-lay-book-cover-mock-up-assortment_23-2148622910.jpg?size=338&ext=jpg&uid=R29391182&ga=GA1.2.2023362612.1634832025"
+    },
+    {
+      "id": "2d54",
+      "name": "Develop Your Career",
+      "price": 520,
+      "img": "https://img.freepik.com/free-psd/mockup-two-books-dark-gray-background_125540-1473.jpg?size=626&ext=jpg&uid=R29391182&ga=GA1.2.2023362612.1634832025"
+    },
+    {
+      "id": "dsf4s",
+      "name": "A Story in War",
+      "price": 350,
+      "img": "https://img.freepik.com/free-psd/book-cover-concrete-surface-mockup_125540-1699.jpg?size=626&ext=jpg&uid=R29391182&ga=GA1.2.2023362612.1634832025"
+    },
+    {
+      "id": "124e",
+      "name": "The world book",
+      "price": 449,
+      "img": "https://img.freepik.com/free-psd/hard-cover-book-mockup_358694-12.jpg?size=626&ext=jpg&uid=R29391182&ga=GA1.2.2023362612.1634832025"
+    },
+    {
+      "id": "13b9",
+      "name": "See Your Career",
+      "price": 320,
+      "img": "https://img.freepik.com/free-psd/magazine-mockup_358694-3235.jpg?t=st=1648222961~exp=1648223561~hmac=eb718ad1a0c05761d14a30fdf4d09691951eadfaff30452d0134f4a68b6f5cf5&w=740"
+    }
+]
