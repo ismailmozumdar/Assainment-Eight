@@ -10,7 +10,9 @@
 
 <h4>বিঃদ্রঃ আপনাদের দেয়া প্রাইভেট রিপোজেটোরিতে প্রথম বার গিটপুশ করতে পারছি।</h4>
 <h4>পরে যখন দ্বিতীয় বার কমিট করি তাতে এরোর দেখলাম</h4>
+<h4>অনেক চেষ্টা করেও সেখানে পুশ করতে পারলাম না</h4>
 <h4>তাই আমার পারসোনাল রিপোতেই গিট পুশ করলাম</h4>
+live Site link: https://velvety-lollipop-e57d85.netlify.app/
  
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
