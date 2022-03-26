@@ -5,18 +5,13 @@ import './Shop.css'
 
 const Shop = () => {
     const [products, setProducts] = useState([]);
-    const [cart, setCart] = useState([])
     useEffect(() => {
         fetch('product.json')
         .then(res => res.json())
         .then(data => setProducts(data))
-    }, [cart])  
+    }, [])  
 
-    const hendleAddtoCart = (product) => {
-        const newCart = [...cart, product];
-        setCart(newCart);
-            console.log({product})
-    }
+    
 
     return (
         <div className='row row-cols-1'>
@@ -25,12 +20,11 @@ const Shop = () => {
                 products.map(product => <Product
                     key={product.id}
                     product={product}
-                    hendleAddtoCart={hendleAddtoCart}
                 ></Product>)
             }
               </div>
               <div className='cart-container d-flax col-3'>
-                  <Cart cart={cart}></Cart>
+                  <Cart></Cart>
                   </div> 
         </div>
     );
