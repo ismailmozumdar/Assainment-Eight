@@ -3,6 +3,9 @@
 
  <img src="https://raw.githubusercontent.com/ismailmozumdar/ismaimozumdar/main/2.jpg" alt=""/>
  
+ 
+ 1. এড টু কাট বাটনে ক্লিক করলে কাটে বই এর ছবি ও নাম দেখাবে।
+ 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
